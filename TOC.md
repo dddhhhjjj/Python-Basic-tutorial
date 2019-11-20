@@ -1,4 +1,5 @@
-- 关于我们
-    - [关于极客学院](about-us.md)
-    - [关于极客学院 Wiki](about-wiki.md)
-- [联系我们](contact.md)
+- [基础语法](基础语法)
+    - [什么是变量](about-us.md)
+    - [顺序结构，分支结构，循环结构](about-wiki.md)
+    - [各种数据类型大会](各种数据类型大会)
+- [web 相关](contact.md)
